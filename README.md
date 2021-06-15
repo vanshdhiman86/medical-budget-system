@@ -8,11 +8,11 @@ strin.h
 stdlib.h
 ```
 
-A simple medical budget system to store the information of various department. You can view all the details as a user and edit any data as admin. To access as admin you have to enter password.\
+A simple medical budget system to store the information of various department. You can view all the details as a user and edit any data as admin. To access as admin you have to enter password.
 
-Current password is [hello].\
+Current password is [hello].
 
-OUTPUT:\
+OUTPUT:
 
 <img src="images\1.jpg" width="400">
 <img src="images\2.jpg" width="400">
