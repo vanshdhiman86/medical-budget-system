@@ -14,6 +14,6 @@ Current password is [hello].
 
 OUTPUT:
 
-<img src="images\1.jpg" width="400">
-<img src="images\2.jpg" width="400">
-<img src="images\3.jpg" width="400">
+<img src="images\1.jpg" width="500">
+<img src="images\2.jpg" width="500">
+<img src="images\3.jpg" width="500">
